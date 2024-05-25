@@ -4,7 +4,7 @@ def recursive_fatorial(n):
     if n == 0:
         return 1
     
-    return n * recursive_fatorial(n-1)
+    return n * recursive_fatorial(n-1) #Func Calls itself
 
 def main():
     try:

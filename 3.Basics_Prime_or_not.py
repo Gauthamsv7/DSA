@@ -1,9 +1,9 @@
 #Prime Number is divide by itself
-
+#if n/i==0
 
 def prime_or_not(n):
     for i in range(2,n):
-        if n%i==0:
+        if n%i==0: #divides by itself and Remainder is Zero
             print(n)
             print("Not a prime number")
             break

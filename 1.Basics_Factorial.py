@@ -1,7 +1,7 @@
 def factorial (n):
     factorial = 1
     for i in range(n):
-        factorial*=i+1
+        factorial*=i+1 #Factorial Iterates to i
         
     return factorial
 
