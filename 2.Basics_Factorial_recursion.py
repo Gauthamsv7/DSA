@@ -19,7 +19,3 @@ def main():
 if __name__ == "__main__":
     main()
     
-    
-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
-
-git remote set-url origin https://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@github.com/Gauthamsv7/DSA
