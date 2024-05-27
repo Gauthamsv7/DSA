@@ -5,6 +5,8 @@ def factorial (n):
         
     return factorial
 
+
+
 def main():
     try:
         n = int(input("Enter a number: "))

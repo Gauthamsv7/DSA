@@ -7,8 +7,8 @@ def prime_or_not(n):
             print(n)
             print("Not a prime number")
             break
-    else:
-        print("Prime number")
+        else:
+            print("Prime number")
     return i
 
 def main():
